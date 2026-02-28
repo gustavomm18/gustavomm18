@@ -33,6 +33,9 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="right">
+  <img height="50" src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif"  />
+</div>
 
 [![Blog](https://img.shields.io/badge/about.me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)]
 
