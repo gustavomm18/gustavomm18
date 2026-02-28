@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+
 ### Olá! Eu sou o Gustavo Martins
 
 [![Blog](https://img.shields.io/badge/about.me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)]
@@ -16,4 +18,7 @@
 
 ![snake gif](https://github.com/gustavomm18/README.md/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=gustavomm18&style=flat-square&color=123845" /></p> 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
