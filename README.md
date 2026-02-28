@@ -14,4 +14,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](gustavomm18)
+![snake gif](https://github.com/gustavomm18/README.md/blob/output/github-contribution-grid-snake.svg)
+
+
