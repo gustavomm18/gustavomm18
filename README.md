@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
-
 ### Olá! Eu sou o Gustavo Martins
 
 [![Blog](https://img.shields.io/badge/about.me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)]
