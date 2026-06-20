@@ -48,7 +48,14 @@
   <img height="50" src="https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif"  />
 </div>
 
-[![Blog](https://img.shields.io/badge/about.me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)]
+## 👨‍💻 About Me
+
+🎓 Estudante de programação da Puc Campinas  
+🐍 Aprendendo Python, C  e MySQL  
+🌐 Estudando desenvolvimento web com HTML, CSS e JavaScript  
+🚀 Sempre buscando aprender novas tecnologias e criar projetos
+
+📫 Entre em contato no insta:guh.missaw4
 
 ###
 
