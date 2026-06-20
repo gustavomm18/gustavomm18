@@ -65,10 +65,7 @@
 
 ![Gustavomm18 GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomm18&show_icons=true&theme=cobalt)
 
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake](https://github.com/gustavomm18/gustavomm18/blob/output/github-snake.svg)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
