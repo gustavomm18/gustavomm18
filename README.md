@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
-### Olá! Eu sou o Gustavo Martins  • PERFIL 0f!C!@l ⚡ 
+### OLÁ! ME CHAMO GUSTAVO  • PERFIL 0f!C!@l ⚡✅ 
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
