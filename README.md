@@ -65,8 +65,6 @@
 
 ![Gustavomm18 GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomm18&show_icons=true&theme=cobalt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake.svg">
