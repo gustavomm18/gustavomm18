@@ -31,7 +31,7 @@
       <a href="https://www.youtube.com/@CanalGz7OFC">
       <a href="">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/gustavomm18?tab=followers">
          <img alt="Seguidores" title="Me segue no Github" src="https://custom-icon-badges.demolab.com/github/followers/gustavomm18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
