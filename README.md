@@ -67,7 +67,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/gustavomm18/README.md/blob/output/github-contribution-grid-snake.svg)
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
@@ -76,8 +80,3 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=gustavomm18&style=flat-square&color=123845" /></p> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
-
-#
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavomm18/gustavomm18/output/github-contribution-grid-snake.svg">
-</picture>
