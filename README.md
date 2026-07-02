@@ -36,8 +36,7 @@
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<br><br>     
-            
+<br><br>               
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=17&color=429FF7&center=true&vCenter=true&width=500&height=20&lines=Muito+Prazer%2CSou+iniciante+na+programa%C3%A7%C3%A3o%3A;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP" alt="Typing SVG">
