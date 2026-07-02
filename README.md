@@ -72,7 +72,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](gugu.missawa@gmail.com
 ) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CanalGz7OFC) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guh.missaw4/)
 
-![Gustavomm18 GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomm18&show_icons=true&theme=cobalt)
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=gustavomm18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
 
 ![Snake](https://github.com/gustavomm18/gustavomm18/blob/output/github-snake.svg)
 
