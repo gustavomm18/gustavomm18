@@ -38,7 +38,7 @@
    </p>
 <br><br>     
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=429FF7&center=true&width=442&height=60&lines=Muito+Prazer%2Csou+iniciante+na+programa%C3%A7%C3%A3o;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=429FF7&vCenter=true&width=442&height=30&lines=Muito+Prazer%2Csou+iniciante+na+programa%C3%A7%C3%A3o;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP)](https://git.io/typing-svg)
 
 <div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
