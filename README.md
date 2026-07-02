@@ -37,9 +37,13 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 <br><br>     
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=429FF7&vCenter=true&width=442&height=30&lines=Muito+Prazer%2Csou+iniciante+na+programa%C3%A7%C3%A3o;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP)](https://git.io/typing-svg)
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=429FF7&center=true&vCenter=true&width=700&height=80&lines=Seja+bem-vindo+ao+meu+perfil!"
+    alt="Typing SVG"
+  />
+</div>
+            
 <div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
