@@ -43,7 +43,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&color=429FF7&center=true&vCenter=true&width=500&height=45&lines=Muito+Prazer%2CSou+iniciante+na+programa%C3%A7%C3%A3o%3A;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&color=429FF7&center=true&vCenter=true&width=500&height=30&lines=Muito+Prazer%2CSou+iniciante+na+programa%C3%A7%C3%A3o%3A;Estou+cursando+Eng+de+Software+na+Puccamp;Meu+sonho+%C3%A9+trabalhar+no+exterior;Tenho+19+anos+e+sou+do+Interior+de+SP"
       alt="Digitando SVG"
     />
   </a>
