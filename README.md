@@ -87,10 +87,12 @@
   <img
     height="180em"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavomm18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
   />
   <img
     height="180em"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavomm18&layout=compact&theme=tokyonight"
+    alt="Linguagens mais usadas"
   />
 </div>
 
